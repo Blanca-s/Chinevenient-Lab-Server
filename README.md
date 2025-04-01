@@ -30,7 +30,7 @@ So now, you have already connected your local pc and lab server together. Next y
 export http_proxy=http://127.0.0.1:51188
 export https_proxy=http://127.0.0.1:51188
 ```
-> ![TIPS]If you are not familiar with how to add environment variables, here are the instrunctions:\
+> ![Tip]If you are not familiar with how to add environment variables, here are the instrunctions:\
 > Use command `vi ~/.bashrc` to enter the related file. \
 > Simply press `i` to enter the insert mode.\
 > Copy and paste the above content to the last part of this file.\
